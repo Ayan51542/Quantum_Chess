@@ -1,0 +1,5 @@
+pip install pygame 
+pip install pygame cairosvg cairocffi
+
+https://github.com/tschoonj/GTK-for-Windows-Runtime-Environment-Installer/releases/tag/2022-01-04
+download the .exe file and install it and after that go on windows enviourment and edit the enviourment add new and place the bin directory 
